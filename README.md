@@ -1,4 +1,4 @@
 bem-forum-posts
 ===============
 
-Сообщения форума nnfrontend.ru
+Сообщения форума http://nnfrontend.ru/
